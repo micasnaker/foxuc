@@ -1,6 +1,7 @@
 # foxuc
 
 > A Vue.js project
+> 这是一个 PC+mobile(移动) 双端 双入口的官网项目
 
 ## Build Setup
 
